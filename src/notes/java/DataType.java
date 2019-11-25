@@ -1,7 +1,7 @@
-package java;
+package notes.java;
 
 /**
- * Description:数据类型
+ * Description:基本数据类型
  * Author:edsonJiao
  * Date:2019.11.12
  */
@@ -58,40 +58,5 @@ public class DataType {
     //在jdk1.8所有的缓存池中,Integer的缓存池IntegerCache比较特殊,这个缓存池下界是-128,上界默认是127
     //但是这个上界是可以调的,在启动JVM的时候,通过 -XX:AutoBoxCacheMax=<size>来指定缓冲池的大小.
     //该选项在JVM初始化的时候会设定一个名为java.lang.Integer.high系统属性,然后在IntegerCache初始化的时候就会读取该系统属性作为上界
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
