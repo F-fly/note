@@ -1,4 +1,4 @@
-package notes.java;
+package notes.java.base;
 
 /**
  * Description:String

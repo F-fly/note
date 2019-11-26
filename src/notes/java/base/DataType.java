@@ -1,4 +1,4 @@
-package notes.java;
+package notes.java.base;
 
 /**
  * Description:基本数据类型
